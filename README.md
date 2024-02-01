@@ -4,6 +4,6 @@ The purpose of the course "HTML & CSS" is an initial familiarization and introdu
 
  - When examining HTML, attention is paid to basic HTML tags, paragraphs, lists, tables, forms and controls, and semantic HTML tags.
 
- -Learning CSS focuses on basic CSS selectors and styles, working with classes, presentation rules, positioning and view rules in CSS.
+ - Learning CSS focuses on basic CSS selectors and styles, working with classes, presentation rules, positioning and view rules in CSS.
 
 The course ends with a practical Workshop and building a complete page with HTML and CSS.
